@@ -39,7 +39,7 @@ function Hero() {
                     initial={{x:+100,opacity:0}}
                     animate={{x:1,opacity:1}}
                     transition={{delay:0.5,duration:1.2}}
-                    src={PrfilePic} alt="" width={400}/>
+                    src={PrfilePic} alt="" width={600}/>
 
                 </div>
             </div>

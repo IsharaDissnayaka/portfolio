@@ -12,8 +12,9 @@ function App() {
     <div className="overflow-x-hidden text-neutral-100 antialiased selection:text-cyan-900 bg-zinc-950 min-h-screen">
       <div className="fixed top-0 w-full z-50">  
       </div>
-      <Navbar/>
-      <div className="container mx-auto mt-2 px-8">
+      
+      <div className="container mx-auto mt-3 px-4">
+        <Navbar/>
         <Hero />
         <About />
         <Technologies/>

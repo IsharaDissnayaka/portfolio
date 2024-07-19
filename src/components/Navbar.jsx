@@ -9,9 +9,9 @@ const Navbar = () => {
   return ( 
   <nav className=" mb-30 flex items-center justify-between py-8">
     <div className="flex flex-shrink-0 items-center" > 
-    <img src={logo} alt=""width={270}/>
+    <img src={logo} alt="my_app_logo"width={200}/>
     </div>
-    <div className='m-8 flex items-center gap-4 text-3xl'>
+    <div className='m-3 flex items-center gap-4 text-3xl'>
        <a href="https://www.linkedin.com/in/ishara2000/"> <FaLinkedin /></a>
        <a href="https://github.com/IsharaDissnayaka"> <FaGithub /></a>
        <a href="https://www.instagram.com/__ish__ara/"> <FaInstagram /></a>
